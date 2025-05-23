@@ -1,4 +1,4 @@
-* {
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -58,7 +58,7 @@ nav ul li a {
   flex-direction: row-reverse;
   grid-template-columns:auto auto auto auto;
   justify-content: space-evenly;
-  max-width:;
+
 }
 
 /* Gallery using CSS Grid
@@ -105,4 +105,4 @@ footer {
   nav ul li {
     margin: 5px 0;
   }
-}
+} 
